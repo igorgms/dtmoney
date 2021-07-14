@@ -10,6 +10,7 @@ interface Transaction {
   createdAt: string;
 }
 
+// Outra forma de tipar a informação
 // interface TransactionInput {
 //   title: string;
 //   amount: number;
